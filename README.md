@@ -1,2 +1,2 @@
-# GoParse
-Universal parser written in Go
+# ScrapGo
+Universal scraper written in Go
